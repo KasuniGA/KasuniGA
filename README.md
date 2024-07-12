@@ -1,7 +1,7 @@
 
 <div align=left>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=6FDA44&size=30&lines=I'm+Kasuni+Abeynayake;A+Computer+Science+...;....Undergraduate;At+University+Of+Plymouth;And+I'm+a+proud+Sri+Lankan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=24e0c1&size=30&lines=Hi🤗+I'm+a+Computer+Science+...;....Undergraduate;At+University+Of+Plymouth;And+I'm+a+proud+Sri+Lankan)](https://git.io/typing-svg)
 </div>
 
 <div>
@@ -31,13 +31,11 @@
 <hr>
 <div align=center>
         <h2>Contribution Activity</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=kasuniga&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kasuniga&title_color=24e0c1&text_color=FFFFFF&show_icons=true&icon_color=24e0c1&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
-        <
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kasuniga&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kasuniga&layout=compact&title_color=24e0c1&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br>
-        -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasuniga&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasuniga&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=24e0c1&fire=eb6517&ring=0e962d" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
     </div>
