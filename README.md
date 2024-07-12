@@ -6,7 +6,7 @@
 
 <div>
     <div align=center>
-        <img src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/223f89cf-4c3b-43d1-b4b7-a4688cab836e/9df377b8-cf31-49de-94f1-c3e9cb587b77.png" height="200" style=border-radius:5px>
+        <img src="https://cdn-icons-png.flaticon.com/512/7259/7259543.png" height="200" style=border-radius:5px>
     </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasuniga&label=Profile%20views&color=0e75b6&style=flat" alt="kasuniga" /> </p>
