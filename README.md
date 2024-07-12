@@ -1,26 +1,17 @@
 
 <div align=left>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=24e0c1&size=30&lines=Hi🤗+I'm+a+Computer+Science+...;....Undergraduate;At+University+Of+Plymouth;And+I'm+a+proud+Sri+Lankan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=cc48db&size=30&lines=Hi🤗+I'm+a+Computer+Science+...;....Undergraduate;At+University+Of+Plymouth;And+I'm+a+proud+Sri+Lankan)](https://git.io/typing-svg)
 </div>
 
 <div>
-    <div align=right>
-        <img src="https://avatars.githubusercontent.com/u/135317655?v=4" height="200" style=border-radius:5px>
+    <div align=center>
+        <img src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/223f89cf-4c3b-43d1-b4b7-a4688cab836e/9df377b8-cf31-49de-94f1-c3e9cb587b77.png" height="200" style=border-radius:5px>
     </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasuniga&label=Profile%20views&color=0e75b6&style=flat" alt="kasuniga" /> </p>
 
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-<!---
-<p align = "center">
-	<img src = "https://github.com/kasuniga/kasuniga/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
---->
 
 <hr>
 <h2 align="center">Connect with me:</h2>
@@ -38,19 +29,28 @@
 <hr>
 <div align=center>
         <h2>Contribution Activity</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=kasuniga&title_color=24e0c1&text_color=FFFFFF&show_icons=true&icon_color=24e0c1&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kasuniga&bg_color=30,c738bd,e49bff,f8f9d7&title_color=500259&text_color=FFFFFF&show_icons=true&icon_color=500259&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kasuniga&layout=compact&title_color=24e0c1&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasuniga&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=24e0c1&fire=eb6517&ring=0e962d" alt="GitHub Streak Stats" height="200" />
-        <br>
+        <img style="height:200;" src="https://github-readme-streak-stats.herokuapp.com/?user=kasuniga&theme=radical&show_icons=true&icon_color=500259&border=e4e2e2" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kasuniga&layout=compact&bg_color=30,f8f9d7,e49bff&title_color=500259&text_color=c738bd&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br>
     </div>
-    <div align=center>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<!---
+<p align = "center">
+	<img src = "https://github.com/kasuniga/kasuniga/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+--->
+  <!---  <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
-
+----->
 </div>
 <hr>
 
