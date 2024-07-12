@@ -12,7 +12,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasuniga&label=Profile%20views&color=0e75b6&style=flat" alt="kasuniga" /> </p>
 
 
-
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
 <hr>
