@@ -33,8 +33,9 @@
         <br>
         <img style="height:200;" src="https://github-readme-streak-stats.herokuapp.com/?user=kasuniga&theme=radical&show_icons=true&icon_color=500259&border=e4e2e2" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kasuniga&layout=compact&bg_color=30,f8f9d7,e49bff&title_color=500259&text_color=c738bd&theme=dark" alt="GitHub Most Used Languages" height="200" />
-        <br>
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kasuniga&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=c738bd&bg_color=30,f8f9d7,e49bff"  height="200" alt="kasuniga"/>
+<br>
     </div>
 
 <!---<div align="center">
