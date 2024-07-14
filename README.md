@@ -37,20 +37,20 @@
         <br>
     </div>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+<!---<div align="center">
+  <img  src="https://github.com/kasuniga/kasuniga/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div>--->
 <!---
 <p align = "center">
 	<img src = "https://github.com/kasuniga/kasuniga/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 --->
-  <!---  <div align=center>
+   <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
------>
+
 </div>
 <hr>
 
