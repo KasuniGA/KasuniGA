@@ -17,7 +17,7 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/kasuniii_g_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasuniii_g_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kasuni abeynayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasuni abeynayake" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kasuni-a-767445215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasuni abeynayake" height="30" width="40" /></a>
 <a href="https://fb.com/kasuni abeynayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kasuni abeynayake" height="30" width="40" /></a>
 <a href="https://instagram.com/kas.u.n.iiii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kas.u.n.iiii_" height="30" width="40" /></a>
 </p>
