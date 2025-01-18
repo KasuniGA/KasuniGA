@@ -31,8 +31,12 @@
         <h2>Contribution Activity</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=kasuniga&bg_color=30,c738bd,e49bff,f8f9d7&title_color=500259&text_color=FFFFFF&show_icons=true&icon_color=500259&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
+	        <br>
+        <img style="height:200;" src="https://github-readme-streak-stats.herokuapp.com/?user=kasuniga&theme=radical&show_icons=true&icon_color=500259&border=e4e2e2" />
+<br>
 
-    </div>
+
+
 
 
 <hr width="36%" >
@@ -42,7 +46,9 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KasuniGA&show_icons=true&theme=dark&locale=en&layout=compact" alt="KasuniGA" /></p>
+
+
 
 <!---<div align="center">
   <img  src="https://github.com/kasuniga/kasuniga/blob/readme/resources/img/grid-snake.svg"
