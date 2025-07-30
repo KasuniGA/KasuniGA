@@ -1,4 +1,4 @@
-# 💫 Welcome to My Digital Universe
+nm# 💫 Welcome to My Digital Universe
 
 <div align="center">
   
@@ -89,7 +89,7 @@ const kasuni = {
   
 <img src="https://github-readme-stats.vercel.app/api?username=kasuniga&bg_color=30,c738bd,e49bff,f8f9d7&title_color=500259&text_color=FFFFFF&show_icons=true&icon_color=cc48db&include_all_commits=true&count_private=true&border_radius=10&border_color=cc48db" alt="GitHub Stats" height="200" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kasuniga&background=30,c738bd,e49bff,f8f9d7&ring=cc48db&fire=cc48db&currStreakLabel=500259&sideLabels=500259&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=cc48db&stroke=cc48db&border_radius=10" height="200" />
+<img style="height:200;" src="https://github-readme-streak-stats.herokuapp.com/?user=kasuniga&theme=radical&show_icons=true&icon_color=500259&border=e4e2e2" />
 
 </div>
 
